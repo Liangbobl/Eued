@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liangbobl.github.io/eued/2023/04/15/Test/</loc>
+    
+    <lastmod>2023-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liangbobl.github.io/eued/2023/04/14/hello-world/</loc>
     
     <lastmod>2023-04-15</lastmod>
@@ -40,12 +49,26 @@
 
   <url>
     <loc>https://liangbobl.github.io/eued</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://liangbobl.github.io/eued/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://liangbobl.github.io/eued/categories/%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%9F%A5%E7%9C%8B/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
